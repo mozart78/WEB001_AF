@@ -1,0 +1,7 @@
+git clone
+git add *
+git commit -m
+git push origin master
+
+Obs.: no meu caso, com a sua ajuda, professor Jean Lucas, ainda precisei usar os comandos  git config --global user.email "you@example.com" e git config --global user.name "Your Name"
+Obs.: foi necessário logar novamente, pois foi a primeira vez que submeti o commit
